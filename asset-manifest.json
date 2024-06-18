@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monblan-project/static/css/main.7b78df67.css",
+    "main.js": "/monblan-project/static/js/main.6c10bebd.js",
+    "static/media/logo.svg": "/monblan-project/static/media/logo.8d7ea4c9bc28340ebf3adbcb7af139a3.svg",
+    "static/media/heart-icon.svg": "/monblan-project/static/media/heart-icon.c5df8ec8b23db689cc9a16ea04844dc3.svg",
+    "static/media/wave-bottom.svg": "/monblan-project/static/media/wave-bottom.89d48974b4ecc12cd23821db0bf0aeac.svg",
+    "static/media/wave-top.svg": "/monblan-project/static/media/wave-top.47d29bc294ae2a741cb8900d384714e2.svg",
+    "index.html": "/monblan-project/index.html",
+    "static/media/rows-active.svg": "/monblan-project/static/media/rows-active.604bde9af6e706f80f4ced291d202ca2.svg",
+    "static/media/rows-icon.svg": "/monblan-project/static/media/rows-icon.caa410468a0921030db917881c4d7ae5.svg",
+    "static/media/tiles-active.svg": "/monblan-project/static/media/tiles-active.a82f8adb7f2dc0ad723ee405a918ecb5.svg",
+    "static/media/tiles-icon.svg": "/monblan-project/static/media/tiles-icon.89115921a5088bd287fddd86f8f73b98.svg",
+    "static/media/comment-icon.svg": "/monblan-project/static/media/comment-icon.7b382dcbf2fdf2df289823afaf511177.svg",
+    "main.7b78df67.css.map": "/monblan-project/static/css/main.7b78df67.css.map",
+    "main.6c10bebd.js.map": "/monblan-project/static/js/main.6c10bebd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b78df67.css",
+    "static/js/main.6c10bebd.js"
+  ]
+}
