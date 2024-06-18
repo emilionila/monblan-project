@@ -1,4 +1,4 @@
-## To see the website you can visit [Demo link](https://github.com/emilionila/monblan-project)
+## To see the website you can visit [DEMO LINK](https://emilionila.github.io/monblan-project/)
 
 Before you begin, ensure you have met the following requirements:
 - Node.js installed on your local machine
