@@ -1,0 +1,19 @@
+[
+  { "id": "1", "image": "/images/1.png", "type": "tiles" },
+  { "id": "2", "image": "/images/2.png", "type": "tiles" },
+  { "id": "3", "image": "/images/3.png", "type": "tiles" },
+  { "id": "4", "image": "/images/4.png", "type": "tiles" },
+  { "id": "5", "image": "/images/5.png", "type": "tiles" },
+  { "id": "6", "image": "/images/6.png", "type": "tiles" },
+  { "id": "7", "image": "/images/7.png", "type": "tiles" },
+  { "id": "8", "image": "/images/8.png", "type": "tiles" },
+  { "id": "9", "image": "/images/9.png", "type": "rows" },
+  { "id": "10", "image": "/images/1.png", "type": "rows" },
+  { "id": "11", "image": "/images/11.png", "type": "rows" },
+  { "id": "12", "image": "/images/12.png", "type": "rows" },
+  { "id": "13", "image": "/images/13.png", "type": "rows" },
+  { "id": "14", "image": "/images/14.png", "type": "rows" },
+  { "id": "15", "image": "/images/15.png", "type": "rows" },
+  { "id": "16", "image": "/images/16.png", "type": "rows" },
+  { "id": "17", "image": "/images/17.png", "type": "rows" }
+]
