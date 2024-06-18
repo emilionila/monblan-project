@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monblan-project/static/css/main.7b78df67.css",
-    "main.js": "/monblan-project/static/js/main.6c10bebd.js",
+    "main.js": "/monblan-project/static/js/main.df78f6e1.js",
     "static/media/logo.svg": "/monblan-project/static/media/logo.8d7ea4c9bc28340ebf3adbcb7af139a3.svg",
     "static/media/heart-icon.svg": "/monblan-project/static/media/heart-icon.c5df8ec8b23db689cc9a16ea04844dc3.svg",
     "static/media/wave-bottom.svg": "/monblan-project/static/media/wave-bottom.89d48974b4ecc12cd23821db0bf0aeac.svg",
@@ -13,10 +13,10 @@
     "static/media/tiles-icon.svg": "/monblan-project/static/media/tiles-icon.89115921a5088bd287fddd86f8f73b98.svg",
     "static/media/comment-icon.svg": "/monblan-project/static/media/comment-icon.7b382dcbf2fdf2df289823afaf511177.svg",
     "main.7b78df67.css.map": "/monblan-project/static/css/main.7b78df67.css.map",
-    "main.6c10bebd.js.map": "/monblan-project/static/js/main.6c10bebd.js.map"
+    "main.df78f6e1.js.map": "/monblan-project/static/js/main.df78f6e1.js.map"
   },
   "entrypoints": [
     "static/css/main.7b78df67.css",
-    "static/js/main.6c10bebd.js"
+    "static/js/main.df78f6e1.js"
   ]
 }
